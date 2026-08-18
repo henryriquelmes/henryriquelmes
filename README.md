@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guth Henry Riquemes!
 
-<!--
-**henryriquelmes/henryriquelmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+💻 Desenvolvedor em formação
+🐍 Python | SQL | Git | GitHub
 
-Here are some ideas to get you started:
+###  Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de ADS, apaixonado por tecnologia e desenvolvimento de software. Atualmente estou aprimorando meus conhecimentos em programação, banco de dados e desenvolvimento web através de projetos acadêmicos e pessoais.
+
+###  Tecnologias
+
+* Python
+* SQL / SQLite
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+
+###  Atualmente estudando
+
+**Python • Banco de Dados • Desenvolvimento Web • Engenharia de Software**
+
+> 🚀 Aprendendo, desenvolvendo e evoluindo todos os dias.
