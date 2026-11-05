@@ -16,13 +16,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henryriquelmes)
 [![Gmail](https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:henryriquelmes@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/7guthh)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 ```python
 class GuthHenry:
@@ -38,14 +38,14 @@ Sou estudante de ADS, apaixonado por tecnologia e em constante evolução. Gosto
 
 ---
 
-## 🔭 Em que estou trabalhando
+##  Em que estou trabalhando
 
 - 🌐 Construindo projetos com **HTML, CSS e JavaScript**
 - 🗄️ Modelando e consultando dados com **MySQL**
 - 🧠 Praticando lógica e estruturas de dados em **C** e **Python**
 - 🎨 Desenvolvendo minha base em **design profissional** (Figma e Canva)
 
-## 🌱 Aprendendo agora
+##  Aprendendo agora
 
 - Banco de dados relacional (MySQL)
 - Programação em C
