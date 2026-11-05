@@ -1,4 +1,4 @@
-# 👨‍💻 Guth Henry Riquelmes
+# Olá! sou o Guth Henry Riquelmes.
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia | Desenvolvimento de Software
 
@@ -23,10 +23,6 @@ Meu objetivo é evoluir como profissional de TI, adquirir experiência prática 
 - **Período:** 2º semestre
 
 ## 💼 Experiência profissional
-
-**Caixa Econômica Federal**
-
-Atuação na área administrativa, desenvolvendo competências profissionais e adquirindo experiência no ambiente corporativo.
 
 ## 💻 Tecnologias e ferramentas
 
@@ -60,15 +56,6 @@ Algumas áreas que fazem parte da minha jornada:
 
 Confira meus repositórios para acompanhar minha evolução e conhecer meus projetos!
 
-## 🎯 Objetivos profissionais
-
-- Evoluir minhas habilidades em programação.
-- Aprimorar conhecimentos em desenvolvimento de software.
-- Desenvolver projetos cada vez mais completos.
-- Aprender novas tecnologias e ferramentas.
-- Conquistar oportunidades na área de tecnologia.
-- Construir uma carreira sólida em TI.
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -82,7 +69,7 @@ Confira meus repositórios para acompanhar minha evolução e conhecer meus proj
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto: henryriquelmes@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
